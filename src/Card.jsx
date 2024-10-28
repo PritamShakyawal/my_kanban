@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import './Card.css';
 import logo from './logo.svg';
-
-// import priority from './priority.svg';
 import priority from './Priority.svg';
 import tag from './tag.png'
 import img0 from './nopriority.png'
